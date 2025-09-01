@@ -128,6 +128,21 @@ ORDER BY sales_year, sales_month, category DESC;
 
     
 ## Screenshots
+**databricks visualization images**
+
+- Total revenue per category
+<img width="1342" height="657" alt="image" src="https://github.com/user-attachments/assets/be476405-9ed1-48b2-85e0-755fe21b1d8f" />
+
+- Top 5 products by revenue
+<img width="1341" height="702" alt="image" src="https://github.com/user-attachments/assets/c9d6a5d3-9d7b-46bb-b35d-ae94e96fbba5" />
+
+- Monthly sales trends
+<img width="1345" height="708" alt="image" src="https://github.com/user-attachments/assets/fb2ceb39-0cc8-484e-a38a-f338b4b6c424" />
+
+- Databricks Job successfull execution
+<img width="1918" height="855" alt="image" src="https://github.com/user-attachments/assets/ba86484c-9cdc-462a-b387-994cfaccffa9" />
+
+
 
 
 
